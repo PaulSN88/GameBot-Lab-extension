@@ -2,6 +2,6 @@
 <!-- GameBot Lab: манифест обновления для self-hosted установки Chrome. appid = ID расширения, CodeBase = адрес .crx, hash = base64(SHA-256) пакета. -->
 <gupdate xmlns='http://www.google.com/update2/response' protocol='2.0'>
   <app appid='kdiklnekjodgnehfmiemihofakghckdk' appversion='0.23.0' status='ok'>
-    <updatecheck status='ok' CodeBase='https://raw.githubusercontent.com/PaulSN88/GameBot-Lab-extension/main/gamebot-lab.crx' codebase='https://raw.githubusercontent.com/PaulSN88/GameBot-Lab-extension/main/gamebot-lab.crx' Version='0.23.0' version='0.23.0' hash='9vGGlstNGtn3do22TvnWxIGwxz4vCmaaOLJ7lSOusEw=' hashalgo='1' size='221264'/>
+    <updatecheck status='ok' CodeBase='https://raw.githubusercontent.com/PaulSN88/GameBot-Lab-extension/main/gamebot-lab.crx' codebase='https://raw.githubusercontent.com/PaulSN88/GameBot-Lab-extension/main/gamebot-lab.crx' Version='0.23.0' version='0.23.0' hash='uLsuMZx4HXPR5ySbDHumPmoSyxH2jVghikgIpLjcoVk=' hashalgo='1' size='221264'/>
   </app>
 </gupdate>
