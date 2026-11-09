@@ -7,11 +7,11 @@
     {
       "browser_version": "80.0.0.0",
       "chrome_base_url": "https://paulsn88.github.io/GameBot-Lab-extension/gamebot-lab.crx",
-      "file_hash": "K0iwhjeZ66KSmSRk8bFWzwaT8o6Ck6YLtvf3WwjvXqE=",
-      "filesize": 221264,
+      "file_hash": "tcrycXHgPWWLrepy70BxOOjS5MFu1olO9Ys6zWt0H3g=",
+      "filesize": 223820,
       "platform": "all",
       "username": "",
-      "version": "0.23.0"
+      "version": "0.24.0"
     }
   ]
 }
