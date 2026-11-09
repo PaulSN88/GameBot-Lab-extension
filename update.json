@@ -1,0 +1,17 @@
+{
+  "manifest_version": 2,
+  "status": "ok",
+  "app_id": "kdiklnekjodgnehfmiemihofakghckdk",
+  "version": "1",
+  "assets": [
+    {
+      "browser_version": "80.0.0.0",
+      "chrome_base_url": "https://raw.githubusercontent.com/PaulSN88/GameBot-Lab-extension/main/gamebot-lab.crx",
+      "file_hash": "HXubh/wu5mRpTPTIlPERHU/CvhwWVtNkfzO2zmxZj0Y=",
+      "filesize": 221264,
+      "platform": "all",
+      "username": "",
+      "version": "0.23.0"
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "version": "0.23.0",
+  "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
+  "built": "2026-11-09T12:25:18Z",
+  "crx": {
+    "file": "gamebot-lab.crx",
+    "size": 221264,
+    "sha256": "1d7b9b87fc2ee664694cf4c894f1111d4fc2be1c1656d3647f33b6ce6c598f46",
+    "file_hash_b64": "HXubh/wu5mRpTPTIlPERHU/CvhwWVtNkfzO2zmxZj0Y="
+  },
+  "files": {
+    "background.js": {
+      "sha256": "890e42e4fa1f406387f778b4d2d4e5ff2ab31120afaa5db1ed2b3341c668e416",
+      "size": 6596
+    },
+    "manifest.json": {
+      "sha256": "dbed9042980ad41dfeb3d9880e4c7d29dad78dcbd7649b98abb669b0eb5293db",
+      "size": 748
+    },
+    "networks.js": {
+      "sha256": "8b72fb9793c7fed11f03f7fe93a122fa7d69422285f4271c918a526ba3fd3e54",
+      "size": 7830
+    },
+    "panel.css": {
+      "sha256": "0f110a00ae0c8a1b3f74608368f9b07790a6daaae812b0e7547695874bd70153",
+      "size": 31129
+    },
+    "panel.html": {
+      "sha256": "4fdea64242446ef6fc0825127057e352edf45e442b8f15564b94786856c58162",
+      "size": 25549
+    },
+    "panel.js": {
+      "sha256": "3f4bb75051dc8c97f6372e93a5c08424b9afad8efc18be51dedfa05297e413ab",
+      "size": 220267
+    },
+    "uiLabels.js": {
+      "sha256": "2a07f900a4ff27585d2c98f33b032b2aef0d02a4f51fb21717c189e991e4190b",
+      "size": 34276
+    },
+    "vendor/battle-autoplay.js": {
+      "sha256": "161253328720532cb6737080553a840d9c220abe989dc770b9a3e382947156d0",
+      "size": 191529
+    },
+    "vendor/battle-fatal-trace.js": {
+      "sha256": "0688609041631190555fbcaad66076e970ec6688bbd7aec9f4f77770e044d643",
+      "size": 15025
+    },
+    "vendor/jewelry-autoplay.js": {
+      "sha256": "5033dfd997f0b8591fd6fcc6b6354bb6ebe242c4c2a447246e6484dbd00fc813",
+      "size": 74903
+    },
+    "vendor/jewelry-harness.js": {
+      "sha256": "01a9db92ed9455600cc480f10a3dc0115f5ba4b4564fca66734d8d1dc1194466",
+      "size": 27551
+    },
+    "vendor/smithy-page.js": {
+      "sha256": "840fb207f8864e2f435afad860d5ccebabd7d6a5edad7b9927dc25b140c20277",
+      "size": 22099
+    },
+    "vendor/xray-capture.js": {
+      "sha256": "d4eeef9893c6a625bf9c7f70a98b66a7912d21abd2c4c787c0110b1b341cf954",
+      "size": 52822
+    }
+  }
+}
