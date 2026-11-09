@@ -2,12 +2,12 @@
   "schema": 1,
   "version": "0.23.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-09T12:25:18Z",
+  "built": "2026-11-09T12:42:47Z",
   "crx": {
     "file": "gamebot-lab.crx",
     "size": 221264,
-    "sha256": "1d7b9b87fc2ee664694cf4c894f1111d4fc2be1c1656d3647f33b6ce6c598f46",
-    "file_hash_b64": "HXubh/wu5mRpTPTIlPERHU/CvhwWVtNkfzO2zmxZj0Y="
+    "sha256": "b45937ac54c709616b7ac326ccde3becb643e61d0b93d86a99dd96f62b7bead3",
+    "file_hash_b64": "tFk3rFTHCWFresMmzN477LZD5h0Lk9hqmd2W9it76tM="
   },
   "files": {
     "background.js": {
