@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.29.0",
+  "version": "0.30.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-11T21:14:49Z",
+  "built": "2026-11-11T21:31:59Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 253239,
-    "sha256": "811a1943c27adb73bbf756573e9f031eb503f4332afd99c839f8ff7c04552945",
-    "file_hash_b64": "gRoZQ8J623O791ZXPp8DHrUD9DMq/ZnIOfj/fARVKUU="
+    "size": 256353,
+    "sha256": "4931da51b20ebd86af2380c2748d1bcc2ff98fb40cb50cf8ddb1f5bff292a725",
+    "file_hash_b64": "STHaUbIOvYavI4DCdI0bzC/5j7QMtQz43bH1v/KSpyU="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "db783d70bbbf5c3597ef28b504fc09b3abc5c5977b9c8261645d93bb9fda0240",
+      "sha256": "419b6d1883951383ee6debd16c646d02ddff594143522a07f192c8ffc4b0c561",
       "size": 921
     },
     "manifest.json": {
-      "sha256": "e67c137171237ea93bd8b71f63a5abf8429e736ecb099723f69371d3550a1b49",
+      "sha256": "37283f1401e9c887434401366e193d657392d8e13400172c6c44d78512acfbef",
       "size": 1153
     },
     "networks.js": {
@@ -31,7 +31,7 @@
       "size": 31825
     },
     "panel.html": {
-      "sha256": "dba33c8f3fc87fc52df2666eb5a1720246204426db503f5a6b317d97dbdc3098",
+      "sha256": "e2327852ecd08233357fc1bfcf29c2aa7332e4861f34bdb119fa63e484b21711",
       "size": 27996
     },
     "panel.js": {
@@ -43,28 +43,28 @@
       "size": 34276
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "54fb417afaeab03096ff90d62146848c927b574ace7e6f786e20ea7e270c15fd",
-      "size": 247640
+      "sha256": "b0f7d7f2e6df7a94fba272c15d4a726af7a7601505ca85bda8ae4456a51e1dde",
+      "size": 248941
     },
     "vendor/battle-fatal-trace.js": {
-      "sha256": "0688609041631190555fbcaad66076e970ec6688bbd7aec9f4f77770e044d643",
-      "size": 15025
+      "sha256": "f61c43234b46bed02f7ec93168a3a87b093f29ce7384c8cdc5862e2b5e75dabf",
+      "size": 15779
     },
     "vendor/jewelry-autoplay.js": {
-      "sha256": "5033dfd997f0b8591fd6fcc6b6354bb6ebe242c4c2a447246e6484dbd00fc813",
-      "size": 74903
+      "sha256": "4b281f64256e22725090d74508e265989062b6091e55d7e022007f3edbda0436",
+      "size": 76942
     },
     "vendor/jewelry-harness.js": {
-      "sha256": "01a9db92ed9455600cc480f10a3dc0115f5ba4b4564fca66734d8d1dc1194466",
-      "size": 27551
+      "sha256": "7ed7e19d4b079ccd677dd67271d48ca79baf9a7a994d2e33be074c9056183c3f",
+      "size": 29208
     },
     "vendor/lab-core.js": {
-      "sha256": "875a11a36e93f66e175e268b27761c3dbfccd39cceae368856932a718c16b22a",
-      "size": 10338
+      "sha256": "62f909957709e8c7ae4a185141e8b59eead52d0dcfee47fbf7072a96e9aa725e",
+      "size": 11393
     },
     "vendor/smithy-page.js": {
-      "sha256": "16de0f53b299e574ca1a82904625c0a9be796db17ec88e81aff81fe4b8028a7d",
-      "size": 22087
+      "sha256": "f6b5f8545cb1e9896da05e8c6230894edb101b5ce66dbdc40ee8f17da3c66b7a",
+      "size": 23919
     },
     "vendor/xray-capture.js": {
       "sha256": "63f1244eb8376ad47d430cb4ac1d2162c5bbaaaf50c3d7c1285398144a5b386b",
