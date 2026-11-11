@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.24.0",
+  "version": "0.25.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-09T16:12:33Z",
+  "built": "2026-11-11T10:31:37Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 223820,
-    "sha256": "187f4eba4f82470eb5a7d23ea827405ca8e302e97834ead18ed6013808884447",
-    "file_hash_b64": "GH9Ouk+CRw61p9I+qCdAXKjjAul4NOrRjtYBOAiIREc="
+    "size": 241327,
+    "sha256": "75febb99b4136b46c49007b27d1f70b0ffe6a67cdf9d35384dd09f9c756f7767",
+    "file_hash_b64": "df67mbQTa0bEkAeyfR9wsP/mpnzfnTU4TdCfnHVvd2c="
   },
   "files": {
     "background.js": {
@@ -15,7 +15,7 @@
       "size": 6596
     },
     "manifest.json": {
-      "sha256": "3c42e0ff488aee33d28cf8b41a1290c2b913d0a7a58e25888f07213753f79596",
+      "sha256": "54be35a21f059832657bb898fd13cb7ca25af6836a10a9706b19f5cb81afefc3",
       "size": 748
     },
     "networks.js": {
@@ -27,7 +27,7 @@
       "size": 31801
     },
     "panel.html": {
-      "sha256": "43033c9d84ebc0fe8eb599dc9b0936f7bd1647ace5ef5480af092be13374d807",
+      "sha256": "e627a86a9da53ddaee9fb906f4423fba7fcc6823fc9b7363dd7fdb2e700cf7fa",
       "size": 26676
     },
     "panel.js": {
@@ -39,8 +39,8 @@
       "size": 34276
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "161253328720532cb6737080553a840d9c220abe989dc770b9a3e382947156d0",
-      "size": 191529
+      "sha256": "54fb417afaeab03096ff90d62146848c927b574ace7e6f786e20ea7e270c15fd",
+      "size": 247640
     },
     "vendor/battle-fatal-trace.js": {
       "sha256": "0688609041631190555fbcaad66076e970ec6688bbd7aec9f4f77770e044d643",
