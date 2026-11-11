@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.25.0",
+  "version": "0.26.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-11T10:31:37Z",
+  "built": "2026-11-11T15:38:51Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 241327,
-    "sha256": "75febb99b4136b46c49007b27d1f70b0ffe6a67cdf9d35384dd09f9c756f7767",
-    "file_hash_b64": "df67mbQTa0bEkAeyfR9wsP/mpnzfnTU4TdCfnHVvd2c="
+    "size": 242684,
+    "sha256": "ea5565b3223e5d3ecf7df8e3664a4eb8201cb79d308e30d0e4861be75e8d553b",
+    "file_hash_b64": "6lVlsyI+XT7PffjjZkpOuCAct50wjjDQ5IYb516NVTs="
   },
   "files": {
     "background.js": {
@@ -15,24 +15,24 @@
       "size": 6596
     },
     "manifest.json": {
-      "sha256": "54be35a21f059832657bb898fd13cb7ca25af6836a10a9706b19f5cb81afefc3",
+      "sha256": "b48c7d52d7a7d1be5057dd2230712667e88091f510b7a844f5ef1985a8cc588e",
       "size": 748
     },
     "networks.js": {
-      "sha256": "8b72fb9793c7fed11f03f7fe93a122fa7d69422285f4271c918a526ba3fd3e54",
-      "size": 7830
+      "sha256": "bf9bd36e03e575557fdb47e457f248f1ce8e093deab09e2eefcb86973c287bab",
+      "size": 8401
     },
     "panel.css": {
-      "sha256": "8c334bf0496e768d48a4fbeac8586ef397751087a5b4b149c3650c408642556f",
-      "size": 31801
+      "sha256": "ce312824694ea6ee95d84a74fe7a1abc0cc2eaaa401e49e7635212a9df55ab8a",
+      "size": 31825
     },
     "panel.html": {
-      "sha256": "e627a86a9da53ddaee9fb906f4423fba7fcc6823fc9b7363dd7fdb2e700cf7fa",
+      "sha256": "0eb800fa652b499ff52d00cfb98b4ab93a06c2ad2f1bcf9f2406f5d53c437ffa",
       "size": 26676
     },
     "panel.js": {
-      "sha256": "e9eb87ae572d83d6bdfb9c32396eb33e54d98a09d9054f9448ed2de6c7d73011",
-      "size": 226227
+      "sha256": "c0c680d7088c46350efa10ebe2dd369f9c8450905b4b6c945184a2a99eb92235",
+      "size": 231102
     },
     "uiLabels.js": {
       "sha256": "2a07f900a4ff27585d2c98f33b032b2aef0d02a4f51fb21717c189e991e4190b",
@@ -55,8 +55,8 @@
       "size": 27551
     },
     "vendor/smithy-page.js": {
-      "sha256": "840fb207f8864e2f435afad860d5ccebabd7d6a5edad7b9927dc25b140c20277",
-      "size": 22099
+      "sha256": "16de0f53b299e574ca1a82904625c0a9be796db17ec88e81aff81fe4b8028a7d",
+      "size": 22087
     },
     "vendor/xray-capture.js": {
       "sha256": "d4eeef9893c6a625bf9c7f70a98b66a7912d21abd2c4c787c0110b1b341cf954",
