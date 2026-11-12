@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.32.0",
+  "version": "0.33.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-11T22:54:46Z",
+  "built": "2026-11-12T06:59:37Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 262424,
-    "sha256": "d98ae11903ad28cee8c88d15771340a8b445a5d35ef25ac732c0ca185d0796d4",
-    "file_hash_b64": "2YrhGQOtKM7oyI0VdxNAqLRFpdNe8lrHMsDKGF0HltQ="
+    "size": 263424,
+    "sha256": "98a4b1a3de5c054e4cc7dad9036c437694cdec4bb8f5ca2b750ce5513c2c691f",
+    "file_hash_b64": "mKSxo95cBU5Mx9rZA2xDdpTN7Eu49cordQzlUTwsaR8="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "9c269affbb1620e5a911cf7b59600b05ac64ce02358d65350c7b1f38cc8472b0",
-      "size": 921
+      "sha256": "e588ea265447cf9e22d78b20ba2d28c24bd8ef111a89a56c26abdcb36d4e5c38",
+      "size": 1156
     },
     "manifest.json": {
-      "sha256": "5e7420533f8dd8448ef5f910d6f69f5b59f721cd70955bbeba903b732384a309",
+      "sha256": "a4a068e314025a0bfd488b3518d8678f51aa1262baff55aa9cd6ddf71ef17530",
       "size": 1153
     },
     "networks.js": {
@@ -31,12 +31,12 @@
       "size": 31825
     },
     "panel.html": {
-      "sha256": "3d300b73be4e3d44aff7a6467a52784346b21ae447315fb8880e344a14247b5d",
+      "sha256": "45e93ab9f40838c684a8c19c4e3f244662c0a561c4c3cdbb406ad3199aaf8a7d",
       "size": 28565
     },
     "panel.js": {
-      "sha256": "22d91aa7cf25f493f205ca774c4e75bb69cfee531dd8515081224f09a4105520",
-      "size": 256111
+      "sha256": "36d62c37d3dff8e505a19a070d00d1c8b88168c99ecd6b9e2ceaa294b98befa2",
+      "size": 258860
     },
     "uiLabels.js": {
       "sha256": "2a07f900a4ff27585d2c98f33b032b2aef0d02a4f51fb21717c189e991e4190b",
