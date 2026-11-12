@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.34.1",
+  "version": "0.34.2",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-12T08:47:41Z",
+  "built": "2026-11-12T10:10:12Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 268284,
-    "sha256": "f8a2f4edec60b91e41d978d56e807be62be61ba20c1f78c9a3becefd197f95a9",
-    "file_hash_b64": "+KL07exguR5B2XjVboB75ivmG6IMH3jJo77O/Rl/lak="
+    "size": 268419,
+    "sha256": "3c2214404b79ffd955764d98039f3b903d9f8217a38dc5188e97a97819cf92d7",
+    "file_hash_b64": "PCIUQEt5/9lVdk2YA587kD2fghejjcUYjpepeBnPktc="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "e1f61eedd0f9fc4df6c095af07d6a9da07aba31c8586689a84720b5dd8540fb3",
+      "sha256": "b5ee1ac94e8af0c3f16520fb516889037f63beeacccf298c2e187c326c51fff1",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "37d7534566c28d9ab20c93fc2a169e0443b8e1ad6cec4ccfbdf52dd3af411423",
+      "sha256": "69a7f07e404a830b05797b935ace74489f387d4accfc86bc3d16181537cb423d",
       "size": 1153
     },
     "networks.js": {
@@ -31,7 +31,7 @@
       "size": 31825
     },
     "panel.html": {
-      "sha256": "019e038fc4667ac98e32aa1c6116fe0bf533d768fe2e8d5bd6c7b0f70b0e0ca2",
+      "sha256": "bbb53c4f5627959b52892218d42d7d6197cdd576b662bc257c925ecb6e2f48c8",
       "size": 28565
     },
     "panel.js": {
@@ -67,8 +67,8 @@
       "size": 27573
     },
     "vendor/xray-capture.js": {
-      "sha256": "9ae43c459c497d28deb7c0c9c2ce3c4e2810c4c1decf2d39b3cdced102eda08c",
-      "size": 64690
+      "sha256": "2c5d0b05fe0efc3e20f9f46a9d800c2361d4574b9a63f46b82bd186f5a88b55b",
+      "size": 65166
     }
   }
 }
