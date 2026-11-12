@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.34.2",
+  "version": "0.35.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-12T10:10:12Z",
+  "built": "2026-11-12T11:03:40Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 268419,
-    "sha256": "3c2214404b79ffd955764d98039f3b903d9f8217a38dc5188e97a97819cf92d7",
-    "file_hash_b64": "PCIUQEt5/9lVdk2YA587kD2fghejjcUYjpepeBnPktc="
+    "size": 270772,
+    "sha256": "b70b6172bfc293c2656a5e0787e27bf6a3d45a26b07ab3f56253659260604625",
+    "file_hash_b64": "twthcr/Ck8Jlal4Hh+J79qPUWiawerP1YlNlkmBgRiU="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "b5ee1ac94e8af0c3f16520fb516889037f63beeacccf298c2e187c326c51fff1",
+      "sha256": "0aec2db610bcb26aa5cbf626380e981961a8afa36d37133320d4d90ddede232e",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "69a7f07e404a830b05797b935ace74489f387d4accfc86bc3d16181537cb423d",
+      "sha256": "789052af54d83fc283c9fa3db053b5c7344c037ae13c4c2f038713616856e9ec",
       "size": 1153
     },
     "networks.js": {
@@ -31,16 +31,16 @@
       "size": 31825
     },
     "panel.html": {
-      "sha256": "bbb53c4f5627959b52892218d42d7d6197cdd576b662bc257c925ecb6e2f48c8",
+      "sha256": "757d4072e5ecd99f7bf1ccc47987a22227dde3468a6670a327493318f531896c",
       "size": 28565
     },
     "panel.js": {
-      "sha256": "f1c346b2e744a3ae20ceeb4bfec29c682fffb893f4beb6e88bc0b8609da9ded8",
-      "size": 260652
+      "sha256": "43e24dc297bca43d936639f13666dec19c7469c588e14219ea830235d69cd3d0",
+      "size": 261809
     },
     "uiLabels.js": {
-      "sha256": "2a07f900a4ff27585d2c98f33b032b2aef0d02a4f51fb21717c189e991e4190b",
-      "size": 34276
+      "sha256": "a264d8ad13ada599b43a42fa9a70432cda498c0f7cb3c63da524d650ae9b1f99",
+      "size": 36919
     },
     "vendor/battle-autoplay.js": {
       "sha256": "02f9234f900f4d00b9659e23468e09c157cb85d5422feaa736e9663b72880d01",
@@ -59,8 +59,8 @@
       "size": 30299
     },
     "vendor/lab-core.js": {
-      "sha256": "d241c08d7851b2f05558a5555dee692ebf465f50c9d50df710cbc9870ae0e8dd",
-      "size": 15341
+      "sha256": "f7e5ed51f519f5c2a44158e6d991d597d7a8141f8de974a507cde4c279bfc4ea",
+      "size": 18892
     },
     "vendor/smithy-page.js": {
       "sha256": "ddbb627cf6caa59032321bbe41d9b7a4c0e870e97f1cedbfa39d0abac042096e",
