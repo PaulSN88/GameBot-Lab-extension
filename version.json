@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.33.1",
+  "version": "0.34.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-12T07:04:09Z",
+  "built": "2026-11-12T08:15:05Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 263745,
-    "sha256": "d8cedcb4a58bffff7c747d958df0dc86efdcbf40d57e8e804883092a1c0ebc39",
-    "file_hash_b64": "2M7ctKWL//98dH2VjfDchu/cv0DVfo6ASIMJKhwOvDk="
+    "size": 267591,
+    "sha256": "4d78840b1a7c16e74c8ac8bc2ab5ce7dc1f11a0653846312556f2e0782c9e115",
+    "file_hash_b64": "TXiECxp8FudMisi8KrXOfcHxGgZThGMSVW8uB4LJ4RU="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "a6fa657cdd6b2e6220114057a711f7159a450d2e6f6c5c02cd2cf3fa71452c58",
+      "sha256": "adaa2282b4265c728fe0260ad7f2586fc15affffaaf91e912086b78ecb2294b6",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "6fac35f2e735e616f9eacd0680079d25a6214397252f8c9ee9e4ad91444320c3",
+      "sha256": "8855cba3a1d2c6f9d4ea873dfaf8c0a7e60004380145a817e355c10ef0a5460d",
       "size": 1153
     },
     "networks.js": {
@@ -31,44 +31,44 @@
       "size": 31825
     },
     "panel.html": {
-      "sha256": "799f27a793a8e88ffa228963f49daaba565d75c407ccff17c380cc2fc7b815a4",
+      "sha256": "a5a68f302055f10245728db8ca77b14b93fca3c10719f6a586d003fa7eaf34d7",
       "size": 28565
     },
     "panel.js": {
-      "sha256": "d0e867a93602bb2e61045b6fac5410de49b118d34f8a2f43628c9b032aa4f0f8",
-      "size": 259586
+      "sha256": "f1c346b2e744a3ae20ceeb4bfec29c682fffb893f4beb6e88bc0b8609da9ded8",
+      "size": 260652
     },
     "uiLabels.js": {
       "sha256": "2a07f900a4ff27585d2c98f33b032b2aef0d02a4f51fb21717c189e991e4190b",
       "size": 34276
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "b0f7d7f2e6df7a94fba272c15d4a726af7a7601505ca85bda8ae4456a51e1dde",
-      "size": 248941
+      "sha256": "e3c9de6f3b0ad7fe5715d96e182a20dabca57a2f466d4e929f1f94051b732ec7",
+      "size": 250816
     },
     "vendor/battle-fatal-trace.js": {
-      "sha256": "f61c43234b46bed02f7ec93168a3a87b093f29ce7384c8cdc5862e2b5e75dabf",
-      "size": 15779
+      "sha256": "22eb845bc888261a7e255973a75d20120bd96527c1a25307d06a8d7d0fb9ead2",
+      "size": 16943
     },
     "vendor/jewelry-autoplay.js": {
-      "sha256": "94f7007777ac0d303e2814f6171cc561d47ebdfc8e0b79b4d5aebb6e4f6d4525",
-      "size": 77838
+      "sha256": "17b7ea7452946c3d2b6efefda25b18cc20e5c953340cf4bba6bbc1baf0e91327",
+      "size": 79449
     },
     "vendor/jewelry-harness.js": {
-      "sha256": "7ed7e19d4b079ccd677dd67271d48ca79baf9a7a994d2e33be074c9056183c3f",
-      "size": 29208
+      "sha256": "c165c90c4a82c89cd78db55c95ff0e0af5b669d9bc35046468c8efe336955602",
+      "size": 30299
     },
     "vendor/lab-core.js": {
-      "sha256": "274866bee26128c7613eeab7320f51aa182b2bc99cf775eeab74dd9d8749a5aa",
-      "size": 12895
+      "sha256": "d241c08d7851b2f05558a5555dee692ebf465f50c9d50df710cbc9870ae0e8dd",
+      "size": 15341
     },
     "vendor/smithy-page.js": {
-      "sha256": "59dd7509851ad7f96b831329d0b9256b8768ba0b308d6a9b57128bec4dd5980a",
-      "size": 24239
+      "sha256": "805c07695b52d1f97ce8cde416b8682a5dfadf02c53de4b7c937f7ff2ce19d54",
+      "size": 25688
     },
     "vendor/xray-capture.js": {
-      "sha256": "6b2b9c0f97fcb5c2037604c1f10a81ca4d034fa8dd4d906baf09cd873ca60309",
-      "size": 60903
+      "sha256": "d8eb7ea1fe6c2dcda278a25158ee04a590e7b1aa3479e55396aaaf08b028a5fb",
+      "size": 62599
     }
   }
 }
