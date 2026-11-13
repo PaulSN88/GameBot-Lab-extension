@@ -2,12 +2,12 @@
   "schema": 1,
   "version": "0.37.1",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-13T15:53:40Z",
+  "built": "2026-11-13T16:01:34Z",
   "crx": {
     "file": "gamebot-lab.crx",
     "size": 294345,
-    "sha256": "29f43c2be9fe83257e8bc9efc3ea17b071d0f28c053ae9ad538a2ad761857cd9",
-    "file_hash_b64": "KfQ8K+n+gyV+i8nvw+oXsHHQ8owFOumtU4oq12GFfNk="
+    "sha256": "b85b9ba9cb6414f2619f3454753324bc5d6c05f36d80b3de5e25e9697b51a4be",
+    "file_hash_b64": "uFubqctkFPJhnzRUdTMkvF1sBfNtgLPeXiXpaXtRpL4="
   },
   "files": {
     "background.js": {
@@ -15,7 +15,7 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "4e1d2e22b9384d40e01c536c87cda352057e5072e6cebb2a201a259a0cce0af9",
+      "sha256": "16d5c111149289e482e6637bfc71083f13bb652b36ed4acc957e5a46110ccb9a",
       "size": 1156
     },
     "manifest.json": {
