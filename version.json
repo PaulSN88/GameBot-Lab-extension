@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.36.0",
+  "version": "0.37.1",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-12T14:02:49Z",
+  "built": "2026-11-13T15:06:06Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 288780,
-    "sha256": "6951440e621a21bdb0cdd27a74e9414052d14cae8980c3dd8c0aff5c00fb32a7",
-    "file_hash_b64": "aVFEDmIaIb2wzdJ6dOlBQFLRTK6JgMPdjAr/XAD7Mqc="
+    "size": 294345,
+    "sha256": "1673c54a952e8d58179d163bfd9a432538618f50f5431fa7e22b98b0d303b9f9",
+    "file_hash_b64": "FnPFSpUujVgXnRY7/ZpDJThhj1D1Qx+n4iuYsNMDufk="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "9dfc7dede8bea3dcee4c7f64b278d1a6363b2d338b054e62a33be013ca36fc69",
+      "sha256": "820a08a4757e618e17b1a3c67a1b0fc27804024a69f7317cd5709773ebd8ab12",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "f70c4fb15b3aa449606d3a728940451d635b4b79988c8e0bebd365ddb843d5f6",
+      "sha256": "49a297c5ac4abd950e96606429cde3e030fbb50ff62ef7a8abc9943eeb1c07ab",
       "size": 1153
     },
     "networks.js": {
@@ -27,20 +27,20 @@
       "size": 8949
     },
     "panel.css": {
-      "sha256": "7f40df833474a3fd0c36ce40d00eb1fdf15f4c3a9f817bea5381c89ed6ce042a",
-      "size": 32150
+      "sha256": "02d704a24469f93f7c3ba514802a615c4f9495613be6015a6cb574a151469307",
+      "size": 33077
     },
     "panel.html": {
-      "sha256": "4b1ef4114d625a0515704c562451c930f7c56bab7aefbe78d9a5757ae376521e",
-      "size": 30544
+      "sha256": "ed49f6fd051c6dfa26fe7cdb1cfe46678ac6012d1b4caf6a10f3fee1e4a38121",
+      "size": 31528
     },
     "panel.js": {
-      "sha256": "743d7f1ab89bdaa8b103f485e79b109a755ae52983732b6e37e8a7445ef61d9b",
-      "size": 282287
+      "sha256": "58c50ca7a0c7d50b7d444bf750d61361323415c1bf53e12dc5cff2593609532f",
+      "size": 291018
     },
     "uiLabels.js": {
-      "sha256": "3c7d91fe0b692e9bc407d2efae5fae82a3ba1598f831e1ea2d83d983e6d902ee",
-      "size": 41209
+      "sha256": "dcbedc69703948bc9933729d71c48ce1e36ce4351a6259ff6de6d6c8f992420a",
+      "size": 46711
     },
     "vendor/battle-autoplay.js": {
       "sha256": "02f9234f900f4d00b9659e23468e09c157cb85d5422feaa736e9663b72880d01",
@@ -59,8 +59,8 @@
       "size": 30299
     },
     "vendor/lab-core.js": {
-      "sha256": "bd4088784dea82b00e87ee7e3bd17a68fcc4636bf64524e95c62d01c842eec90",
-      "size": 28580
+      "sha256": "6653d989059149e2ca5c8f9125babd92fbd4a30b62050bf7bccb38b7444785bb",
+      "size": 31062
     },
     "vendor/neighbors-scan.js": {
       "sha256": "d73ffb8afe2034aa1d67fc7aa9a227e31da8cafd6ff9cdb70458610ed304a094",
