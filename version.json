@@ -1,0 +1,78 @@
+{
+  "schema": 1,
+  "version": "0.46.5",
+  "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
+  "built": "2026-11-16T12:26:30Z",
+  "crx": {
+    "file": "gamebot-lab.crx",
+    "size": 357343,
+    "sha256": "1962b9018e21988636e6d396a91292155002baedc02d4186a9ebdeb7d75fd53e",
+    "file_hash_b64": "GWK5AY4hmIY25tOWqRKSFVACuu3ALUGGqevet9df1T4="
+  },
+  "files": {
+    "background.js": {
+      "sha256": "890e42e4fa1f406387f778b4d2d4e5ff2ab31120afaa5db1ed2b3341c668e416",
+      "size": 6596
+    },
+    "buildinfo.js": {
+      "sha256": "4166d5c155afe701319c9b92cbb94eb3dfb74ee4a904413f2bfd246586f8d346",
+      "size": 1156
+    },
+    "manifest.json": {
+      "sha256": "dca9f778bad94dea5667d5035a8d22dc71cd2d60176c1c3103bcbc6b86e47fb6",
+      "size": 1256
+    },
+    "networks.js": {
+      "sha256": "41253b20ef5cc555443387e64434344e3af2d94e46d925c02e50bb8e5b3d6db8",
+      "size": 8949
+    },
+    "panel.css": {
+      "sha256": "7502b7f4ebacbe090ee88adafba770529d38a2efd8c0dca64b5605a1fa393d24",
+      "size": 50873
+    },
+    "panel.html": {
+      "sha256": "b97bc8cc84c4c9a4be162b854271e9f587f1639850b063a49266b0fb2c7d7409",
+      "size": 43489
+    },
+    "panel.js": {
+      "sha256": "d15daf0e7c1f06d7ef073905357164aa0312feaf048d136a57af610d50917ecf",
+      "size": 410585
+    },
+    "uiLabels.js": {
+      "sha256": "1df191fbfba551822c84c5ca7dba30a2f669143d256143e60a2bfe988220acfd",
+      "size": 49092
+    },
+    "vendor/battle-autoplay.js": {
+      "sha256": "bc3312b7e1d50dfc71889d70071987315e7b9178849eff581952df521c39075a",
+      "size": 268976
+    },
+    "vendor/battle-fatal-trace.js": {
+      "sha256": "22eb845bc888261a7e255973a75d20120bd96527c1a25307d06a8d7d0fb9ead2",
+      "size": 16943
+    },
+    "vendor/jewelry-autoplay.js": {
+      "sha256": "56da796f2e89d9c7c3640f5c21590b3ca54f7136bcc2c4e23d35f3ce25b388dc",
+      "size": 81595
+    },
+    "vendor/jewelry-harness.js": {
+      "sha256": "5940b193af853d1628e48edf581f3eb7c895d203d8752bc4de72dc4a7b4d8e01",
+      "size": 30970
+    },
+    "vendor/lab-core.js": {
+      "sha256": "6653d989059149e2ca5c8f9125babd92fbd4a30b62050bf7bccb38b7444785bb",
+      "size": 31062
+    },
+    "vendor/neighbors-scan.js": {
+      "sha256": "d73ffb8afe2034aa1d67fc7aa9a227e31da8cafd6ff9cdb70458610ed304a094",
+      "size": 19855
+    },
+    "vendor/smithy-page.js": {
+      "sha256": "c21b63dba396af127848cf37682507877297287d5ab3eeffc44ffefe54cd0018",
+      "size": 63202
+    },
+    "vendor/xray-capture.js": {
+      "sha256": "a5dd87ec7066e86f8cce11b458df21040e97a6bdff7b0978fc9ea0a96c4d0c2b",
+      "size": 65831
+    }
+  }
+}
