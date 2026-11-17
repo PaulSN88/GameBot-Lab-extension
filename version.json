@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.46.5",
+  "version": "0.49.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-16T12:26:30Z",
+  "built": "2026-11-17T16:04:56Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 357343,
-    "sha256": "1962b9018e21988636e6d396a91292155002baedc02d4186a9ebdeb7d75fd53e",
-    "file_hash_b64": "GWK5AY4hmIY25tOWqRKSFVACuu3ALUGGqevet9df1T4="
+    "size": 379794,
+    "sha256": "bf98da81d937c449a43925aa1e7fd935f866756c505934fd58ea574896d6aa8b",
+    "file_hash_b64": "v5jagdk3xEmkOSWqHn/ZNfhmdWxQWTT9WOpXSJbWqos="
   },
   "files": {
     "background.js": {
@@ -15,36 +15,36 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "4166d5c155afe701319c9b92cbb94eb3dfb74ee4a904413f2bfd246586f8d346",
+      "sha256": "624d19b14e5b53da334db5d0c7fe5a300628d82ebb01a50a58618c54ed5e2aad",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "dca9f778bad94dea5667d5035a8d22dc71cd2d60176c1c3103bcbc6b86e47fb6",
+      "sha256": "a9d804b501bde23b2f93afe8c0c49d6908c2799f2d7fed742be99a3eaf75a6ab",
       "size": 1256
     },
     "networks.js": {
-      "sha256": "41253b20ef5cc555443387e64434344e3af2d94e46d925c02e50bb8e5b3d6db8",
-      "size": 8949
+      "sha256": "14d53d81f6d3efa00147c5ea6f378d2f19f59d00ed561c83b1de26b00f456a51",
+      "size": 9724
     },
     "panel.css": {
-      "sha256": "7502b7f4ebacbe090ee88adafba770529d38a2efd8c0dca64b5605a1fa393d24",
-      "size": 50873
+      "sha256": "eece52354536644c37ac81953dab0fcc437336cea213d7a40e8ddf557b1bd233",
+      "size": 52584
     },
     "panel.html": {
-      "sha256": "b97bc8cc84c4c9a4be162b854271e9f587f1639850b063a49266b0fb2c7d7409",
-      "size": 43489
+      "sha256": "d61d5090213e1914d54b1ed948385583b63bf7add87ce759ec46c6afbd29fc9a",
+      "size": 45475
     },
     "panel.js": {
-      "sha256": "d15daf0e7c1f06d7ef073905357164aa0312feaf048d136a57af610d50917ecf",
-      "size": 410585
+      "sha256": "94375a8c3d23573301fa5fa5bd77a33d868a8ec16d7e3fb7a6bbd791f8d8dd62",
+      "size": 451819
     },
     "uiLabels.js": {
-      "sha256": "1df191fbfba551822c84c5ca7dba30a2f669143d256143e60a2bfe988220acfd",
-      "size": 49092
+      "sha256": "a018f739b409dcd91a4743fe753ea50ad0f919c8d2f1c3a8d8ec7b53565d54f4",
+      "size": 49090
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "bc3312b7e1d50dfc71889d70071987315e7b9178849eff581952df521c39075a",
-      "size": 268976
+      "sha256": "beab8656210bbe48a04f2f1b8d094de12c9eaf3f8faf35708ecd36751ae79611",
+      "size": 282494
     },
     "vendor/battle-fatal-trace.js": {
       "sha256": "22eb845bc888261a7e255973a75d20120bd96527c1a25307d06a8d7d0fb9ead2",
@@ -67,8 +67,8 @@
       "size": 19855
     },
     "vendor/smithy-page.js": {
-      "sha256": "c21b63dba396af127848cf37682507877297287d5ab3eeffc44ffefe54cd0018",
-      "size": 63202
+      "sha256": "d7f9a64c271cf8de25d31519c7a6f78e25d8492571d6aab48ee5dea46ae3b70f",
+      "size": 80288
     },
     "vendor/xray-capture.js": {
       "sha256": "a5dd87ec7066e86f8cce11b458df21040e97a6bdff7b0978fc9ea0a96c4d0c2b",
