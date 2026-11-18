@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.49.0",
+  "version": "0.50.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-17T16:04:56Z",
+  "built": "2026-11-18T14:54:15Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 379794,
-    "sha256": "bf98da81d937c449a43925aa1e7fd935f866756c505934fd58ea574896d6aa8b",
-    "file_hash_b64": "v5jagdk3xEmkOSWqHn/ZNfhmdWxQWTT9WOpXSJbWqos="
+    "size": 406219,
+    "sha256": "eca06f7969c3d5eef1cdd6ca706d634645bfb77334e48d5ab4400677187736c4",
+    "file_hash_b64": "7KBveWnD1e7xzdbKcG1jRkW/t3M05I1atEAGdxh3NsQ="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "624d19b14e5b53da334db5d0c7fe5a300628d82ebb01a50a58618c54ed5e2aad",
+      "sha256": "2b92b44e736bac528b98f4b248de5d00db1f512e8a1bf955277b22c893813116",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "a9d804b501bde23b2f93afe8c0c49d6908c2799f2d7fed742be99a3eaf75a6ab",
+      "sha256": "375d06a187214aa282ac8319a2cc7794a8659f563ed293847580f5df3e479be4",
       "size": 1256
     },
     "networks.js": {
@@ -27,16 +27,16 @@
       "size": 9724
     },
     "panel.css": {
-      "sha256": "eece52354536644c37ac81953dab0fcc437336cea213d7a40e8ddf557b1bd233",
-      "size": 52584
+      "sha256": "85e192790e40a994ef81d5a5f9f3d86677f5f2a59adb91569c1488ccafaf1492",
+      "size": 54834
     },
     "panel.html": {
-      "sha256": "d61d5090213e1914d54b1ed948385583b63bf7add87ce759ec46c6afbd29fc9a",
-      "size": 45475
+      "sha256": "fd6abf880e4dd4847eb3332363669357835b1e7b6920e830c448477a9a5b1c41",
+      "size": 47679
     },
     "panel.js": {
-      "sha256": "94375a8c3d23573301fa5fa5bd77a33d868a8ec16d7e3fb7a6bbd791f8d8dd62",
-      "size": 451819
+      "sha256": "282e5756710647c6913be5b9dcf9a33be5173c71615326c581824d5e514d9bbf",
+      "size": 491586
     },
     "uiLabels.js": {
       "sha256": "a018f739b409dcd91a4743fe753ea50ad0f919c8d2f1c3a8d8ec7b53565d54f4",
@@ -67,8 +67,8 @@
       "size": 19855
     },
     "vendor/smithy-page.js": {
-      "sha256": "d7f9a64c271cf8de25d31519c7a6f78e25d8492571d6aab48ee5dea46ae3b70f",
-      "size": 80288
+      "sha256": "f861ac2316fde45c93e4af75319ce938d877e44626778e5f7c95a3f596cbae23",
+      "size": 131293
     },
     "vendor/xray-capture.js": {
       "sha256": "a5dd87ec7066e86f8cce11b458df21040e97a6bdff7b0978fc9ea0a96c4d0c2b",
