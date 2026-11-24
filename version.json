@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.55.0",
+  "version": "0.57.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-22T22:04:42Z",
+  "built": "2026-11-24T06:43:04Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 494924,
-    "sha256": "5efccc2536af932e047ed4a0010016d2d9b2f6bd9ccce55c79b4a7dbae08a6e5",
-    "file_hash_b64": "XvzMJTavky4EftSgAQAW0tmy9r2czOVcebSn264IpuU="
+    "size": 519766,
+    "sha256": "fe0a075e3e678bc90a9d6a85cbc01a96be8048a0590efaaff88481560be31404",
+    "file_hash_b64": "/goHXj5ni8kKnWqFy8Aalr6ASKBZDvqv+ISBVgvjFAQ="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 6596
     },
     "buildinfo.js": {
-      "sha256": "a2eaf315095df5b6eb49f27de7d553e324493296f94c0db4a04457e9e371ee8a",
+      "sha256": "1e8d683961cadc317768970a903b6787bbb90f2da3b602bbbfdd8fdd517cafa0",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "b2f20b2da8e7481948fb47b8cdad4ada1ce8f1a2ea20641ed176424caf787a0f",
+      "sha256": "b22be061eb036947d048634d545ec66dd866cce00c5ae86013ddcb4e3342ad54",
       "size": 1256
     },
     "networks.js": {
@@ -27,44 +27,44 @@
       "size": 9724
     },
     "panel.css": {
-      "sha256": "85e192790e40a994ef81d5a5f9f3d86677f5f2a59adb91569c1488ccafaf1492",
-      "size": 54834
+      "sha256": "f7c649049a93f3adfa4f9e533460f0c8c47f1fca65376cce3d10d0f4a8d8710f",
+      "size": 62124
     },
     "panel.html": {
-      "sha256": "37bece299a829925fa994d925435eaf47e8f01dc56c89046d0c9f39a75eee929",
-      "size": 52253
+      "sha256": "cd30f21b65d35d5bc45f40977bacf142fbaea58b009bfdfe802784b91153bb4d",
+      "size": 53658
     },
     "panel.js": {
-      "sha256": "bd5743f0f0e9ea323c5c77ff7ae54c9a3aa114ab41f531bcb42dfb907fc66c48",
-      "size": 624970
+      "sha256": "5ff7de97e2c025210c76b4f8a78056da1d1351d370fff198397bb4503e9247d9",
+      "size": 645022
     },
     "uiLabels.js": {
-      "sha256": "9e7ec9a6ed7f396f3510816e2521e2323cf714b8422cb763c174307abf2bff8f",
-      "size": 74929
+      "sha256": "2fe4e6ae1b95719aaeca00b326ee58172d1dfe3754f3f2282da817ae331b632f",
+      "size": 91308
     },
     "vendor/balloon-page.js": {
-      "sha256": "4b4adf6f2ed14b4e29b05e6b70f9994cf20062d68f9c4914b105300252f3d01c",
-      "size": 32816
+      "sha256": "47d3c2538a3f001de7e00c7d33634fc24dafaa110350480469903d5d6c73bdb8",
+      "size": 37503
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "47ca7c755623f93e04764ae0c5f0ec1872df878857f27e437ce003762d48a67c",
-      "size": 288058
+      "sha256": "eb3e75c1b0ad927fd925f17ff96a8f87d998b8b1dafa27eaa109adf8ba473618",
+      "size": 292309
     },
     "vendor/battle-fatal-trace.js": {
       "sha256": "22eb845bc888261a7e255973a75d20120bd96527c1a25307d06a8d7d0fb9ead2",
       "size": 16943
     },
     "vendor/jewelry-autoplay.js": {
-      "sha256": "56da796f2e89d9c7c3640f5c21590b3ca54f7136bcc2c4e23d35f3ce25b388dc",
-      "size": 81595
+      "sha256": "e4e697c9e1f708922ac2d2ecfdcd9eee5d10ce8ce2a941e8b9c99b1faa39e6de",
+      "size": 86518
     },
     "vendor/jewelry-harness.js": {
       "sha256": "5940b193af853d1628e48edf581f3eb7c895d203d8752bc4de72dc4a7b4d8e01",
       "size": 30970
     },
     "vendor/lab-core.js": {
-      "sha256": "6653d989059149e2ca5c8f9125babd92fbd4a30b62050bf7bccb38b7444785bb",
-      "size": 31062
+      "sha256": "b6221620c5f2822417a68bdb2dcc83423de9fb3a3d882ac0e4750f9902eed15f",
+      "size": 41547
     },
     "vendor/neighbors-scan.js": {
       "sha256": "d73ffb8afe2034aa1d67fc7aa9a227e31da8cafd6ff9cdb70458610ed304a094",
@@ -75,8 +75,8 @@
       "size": 138647
     },
     "vendor/xray-capture.js": {
-      "sha256": "a5dd87ec7066e86f8cce11b458df21040e97a6bdff7b0978fc9ea0a96c4d0c2b",
-      "size": 65831
+      "sha256": "6c016d4b3e546f773da42b58f817215ce5eff70087a592b2faf62f4b62852c79",
+      "size": 82016
     },
     "vendor/zonk-page.js": {
       "sha256": "db28de6f6755b37d859114f3357f08bfca5a53c349c9cc2ca14afbd955282ca3",
