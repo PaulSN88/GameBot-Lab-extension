@@ -1,42 +1,42 @@
 {
   "schema": 1,
-  "version": "0.57.0",
+  "version": "0.57.1",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-24T06:43:04Z",
+  "built": "2026-11-24T12:00:07Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 519766,
-    "sha256": "fe0a075e3e678bc90a9d6a85cbc01a96be8048a0590efaaff88481560be31404",
-    "file_hash_b64": "/goHXj5ni8kKnWqFy8Aalr6ASKBZDvqv+ISBVgvjFAQ="
+    "size": 529374,
+    "sha256": "f53d3a180e41776a07edce7f8f916f995f960448ac476460ef2250a99bedc852",
+    "file_hash_b64": "9T06GA5Bd2oH7c5/j5FvmV+WBEisR2Rg7yJQqZvtyFI="
   },
   "files": {
     "background.js": {
-      "sha256": "890e42e4fa1f406387f778b4d2d4e5ff2ab31120afaa5db1ed2b3341c668e416",
-      "size": 6596
+      "sha256": "ae57518e95aab44d5c4560cc4a7540f622f4eb57e050d139cef46a22dab10d85",
+      "size": 7495
     },
     "buildinfo.js": {
-      "sha256": "1e8d683961cadc317768970a903b6787bbb90f2da3b602bbbfdd8fdd517cafa0",
+      "sha256": "3c65b618265ce22728a1448ddee2d71bb30e6d3b0d8e6219212e6a67e1e042d5",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "b22be061eb036947d048634d545ec66dd866cce00c5ae86013ddcb4e3342ad54",
+      "sha256": "20201f82a21b7e18fcd3953003e73f7c06dfac3cb8ab4087364aec3a4056e18d",
       "size": 1256
     },
     "networks.js": {
-      "sha256": "14d53d81f6d3efa00147c5ea6f378d2f19f59d00ed561c83b1de26b00f456a51",
-      "size": 9724
+      "sha256": "6d74fbbb633cf1c925999c2a5e8ebee1e945a2ffd590412ddbc40902ddfee2aa",
+      "size": 12874
     },
     "panel.css": {
-      "sha256": "f7c649049a93f3adfa4f9e533460f0c8c47f1fca65376cce3d10d0f4a8d8710f",
-      "size": 62124
+      "sha256": "c5a5b93c0b43a6f98ae94a549f050a5de78132f375bc3ff8aac44675f4bc9272",
+      "size": 68366
     },
     "panel.html": {
-      "sha256": "cd30f21b65d35d5bc45f40977bacf142fbaea58b009bfdfe802784b91153bb4d",
-      "size": 53658
+      "sha256": "1f436f3521fa9eca1a5a45005f61820543373ff288e894f154e9b16339bc0327",
+      "size": 56191
     },
     "panel.js": {
-      "sha256": "5ff7de97e2c025210c76b4f8a78056da1d1351d370fff198397bb4503e9247d9",
-      "size": 645022
+      "sha256": "d2dc108e0dc00a2ce8baf0859ec47956e1f45eedfffb2f607c631063454449b0",
+      "size": 664497
     },
     "uiLabels.js": {
       "sha256": "2fe4e6ae1b95719aaeca00b326ee58172d1dfe3754f3f2282da817ae331b632f",
