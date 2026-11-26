@@ -1,13 +1,13 @@
 {
   "schema": 1,
-  "version": "0.57.1",
+  "version": "0.58.0",
   "extension_id": "kdiklnekjodgnehfmiemihofakghckdk",
-  "built": "2026-11-24T12:00:07Z",
+  "built": "2026-11-26T22:01:24Z",
   "crx": {
     "file": "gamebot-lab.crx",
-    "size": 529374,
-    "sha256": "f53d3a180e41776a07edce7f8f916f995f960448ac476460ef2250a99bedc852",
-    "file_hash_b64": "9T06GA5Bd2oH7c5/j5FvmV+WBEisR2Rg7yJQqZvtyFI="
+    "size": 552520,
+    "sha256": "d309b6dbcaa8ca1e9983f31459431ba43746e498ab9806fa1c52843e05ce11dd",
+    "file_hash_b64": "0wm228qoyh6Zg/MUWUMbpDdG5JirmAb6HFKEPgXOEd0="
   },
   "files": {
     "background.js": {
@@ -15,11 +15,11 @@
       "size": 7495
     },
     "buildinfo.js": {
-      "sha256": "3c65b618265ce22728a1448ddee2d71bb30e6d3b0d8e6219212e6a67e1e042d5",
+      "sha256": "96de69911fbd6c1e5d805f0a6997492e0a0aee39a113cc73cf4c5dfd0b777ee5",
       "size": 1156
     },
     "manifest.json": {
-      "sha256": "20201f82a21b7e18fcd3953003e73f7c06dfac3cb8ab4087364aec3a4056e18d",
+      "sha256": "aa3d8f134dede8396d6224ff5bfe34324888ea3ca2076d97351cdfe8d36d95a7",
       "size": 1256
     },
     "networks.js": {
@@ -31,12 +31,12 @@
       "size": 68366
     },
     "panel.html": {
-      "sha256": "1f436f3521fa9eca1a5a45005f61820543373ff288e894f154e9b16339bc0327",
-      "size": 56191
+      "sha256": "8da0a761b757f79f1c2c1612618a676f999e99bb831c6cc9e3bb95298448153d",
+      "size": 57180
     },
     "panel.js": {
-      "sha256": "d2dc108e0dc00a2ce8baf0859ec47956e1f45eedfffb2f607c631063454449b0",
-      "size": 664497
+      "sha256": "75c703bf4a94f35a625d92fe9f0b4c01baa0b7f7f2e42a2547d440882f4920c6",
+      "size": 692177
     },
     "uiLabels.js": {
       "sha256": "2fe4e6ae1b95719aaeca00b326ee58172d1dfe3754f3f2282da817ae331b632f",
@@ -47,8 +47,8 @@
       "size": 37503
     },
     "vendor/battle-autoplay.js": {
-      "sha256": "eb3e75c1b0ad927fd925f17ff96a8f87d998b8b1dafa27eaa109adf8ba473618",
-      "size": 292309
+      "sha256": "d6a1285db04a8ebbc19ef387ff64368b3f442fe41f9e10f66e8a0440cc73e456",
+      "size": 335399
     },
     "vendor/battle-fatal-trace.js": {
       "sha256": "22eb845bc888261a7e255973a75d20120bd96527c1a25307d06a8d7d0fb9ead2",
@@ -71,8 +71,8 @@
       "size": 19855
     },
     "vendor/smithy-page.js": {
-      "sha256": "feef09f499da825a15ecc1d19c6b41cf10dc716306482f63c2d00585b9056c24",
-      "size": 138647
+      "sha256": "45f41a70c14ef886ebdb2b2c02bf61f9ff4c01c60fd458506629938675f15c5f",
+      "size": 145688
     },
     "vendor/xray-capture.js": {
       "sha256": "6c016d4b3e546f773da42b58f817215ce5eff70087a592b2faf62f4b62852c79",
